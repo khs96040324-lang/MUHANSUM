@@ -1,4 +1,4 @@
-# Love & Choices
+# MUHASUM(LOVE&CHOICE)
 
 ## 1. Project Overview
 **Genre:** 2D Dating Simulation  
